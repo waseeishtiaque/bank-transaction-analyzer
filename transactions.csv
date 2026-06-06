@@ -1,0 +1,97 @@
+transaction_id,date,merchant,category,amount,transaction_type
+T001,2024-01-03,Seven Eleven,Food & Dining,850,debit
+T002,2024-01-05,Tokyo Metro,Transport,1200,debit
+T003,2024-01-07,Amazon Japan,Shopping,3400,debit
+T004,2024-01-09,Yoshinoya,Food & Dining,680,debit
+T005,2024-01-10,Netflix,Entertainment,1490,debit
+T006,2024-01-12,Lawson,Food & Dining,520,debit
+T007,2024-01-14,Uniqlo,Shopping,4900,debit
+T008,2024-01-15,Salary,Income,250000,credit
+T009,2024-01-17,Suica Recharge,Transport,3000,debit
+T010,2024-01-18,Matsuya,Food & Dining,730,debit
+T011,2024-01-20,Spotify,Entertainment,980,debit
+T012,2024-01-21,FamilyMart,Food & Dining,430,debit
+T013,2024-01-23,Don Quijote,Shopping,2200,debit
+T014,2024-01-25,Tokyo Gas,Utilities,4500,debit
+T015,2024-01-26,Sukiya,Food & Dining,590,debit
+T016,2024-01-28,Amazon Japan,Shopping,1800,debit
+T017,2024-01-30,Docomo,Utilities,6000,debit
+T018,2024-02-01,Seven Eleven,Food & Dining,760,debit
+T019,2024-02-03,Tokyo Metro,Transport,1200,debit
+T020,2024-02-05,Rakuten,Shopping,5600,debit
+T021,2024-02-07,Matsuya,Food & Dining,680,debit
+T022,2024-02-09,Netflix,Entertainment,1490,debit
+T023,2024-02-10,Lawson,Food & Dining,490,debit
+T024,2024-02-12,Zara,Shopping,8900,debit
+T025,2024-02-14,Suica Recharge,Transport,3000,debit
+T026,2024-02-15,Salary,Income,250000,credit
+T027,2024-02-17,Yoshinoya,Food & Dining,650,debit
+T028,2024-02-19,Spotify,Entertainment,980,debit
+T029,2024-02-21,Tokyo Electric,Utilities,5200,debit
+T030,2024-02-22,FamilyMart,Food & Dining,380,debit
+T031,2024-02-24,Amazon Japan,Shopping,2900,debit
+T032,2024-02-26,Sukiya,Food & Dining,590,debit
+T033,2024-02-28,Tokyo Gas,Utilities,4200,debit
+T034,2024-03-01,Seven Eleven,Food & Dining,820,debit
+T035,2024-03-03,Tokyo Metro,Transport,1800,debit
+T036,2024-03-05,Uniqlo,Shopping,6700,debit
+T037,2024-03-07,Matsuya,Food & Dining,720,debit
+T038,2024-03-09,Netflix,Entertainment,1490,debit
+T039,2024-03-11,Lawson,Food & Dining,610,debit
+T040,2024-03-13,Don Quijote,Shopping,3300,debit
+T041,2024-03-15,Salary,Income,250000,credit
+T042,2024-03-16,Suica Recharge,Transport,5000,debit
+T043,2024-03-18,Yoshinoya,Food & Dining,680,debit
+T044,2024-03-20,Spotify,Entertainment,980,debit
+T045,2024-03-22,Amazon Japan,Shopping,4100,debit
+T046,2024-03-24,Tokyo Electric,Utilities,4800,debit
+T047,2024-03-26,FamilyMart,Food & Dining,450,debit
+T048,2024-03-28,Rakuten,Shopping,7200,debit
+T049,2024-03-29,Tokyo Gas,Utilities,3900,debit
+T050,2024-03-31,Sukiya,Food & Dining,590,debit
+T051,2024-04-02,Seven Eleven,Food & Dining,790,debit
+T052,2024-04-04,Tokyo Metro,Transport,1200,debit
+T053,2024-04-06,Amazon Japan,Shopping,2600,debit
+T054,2024-04-08,Matsuya,Food & Dining,700,debit
+T055,2024-04-10,Netflix,Entertainment,1490,debit
+T056,2024-04-12,Lawson,Food & Dining,530,debit
+T057,2024-04-14,Uniqlo,Shopping,5500,debit
+T058,2024-04-15,Salary,Income,250000,credit
+T059,2024-04-17,Suica Recharge,Transport,3000,debit
+T060,2024-04-19,Yoshinoya,Food & Dining,660,debit
+T061,2024-04-21,Spotify,Entertainment,980,debit
+T062,2024-04-23,Don Quijote,Shopping,1900,debit
+T063,2024-04-25,Tokyo Electric,Utilities,3900,debit
+T064,2024-04-27,FamilyMart,Food & Dining,410,debit
+T065,2024-04-29,Rakuten,Shopping,3300,debit
+T066,2024-05-01,Seven Eleven,Food & Dining,870,debit
+T067,2024-05-03,Tokyo Metro,Transport,1200,debit
+T068,2024-05-05,Amazon Japan,Shopping,5100,debit
+T069,2024-05-07,Matsuya,Food & Dining,710,debit
+T070,2024-05-09,Netflix,Entertainment,1490,debit
+T071,2024-05-11,Lawson,Food & Dining,560,debit
+T072,2024-05-13,Zara,Shopping,7800,debit
+T073,2024-05-15,Salary,Income,250000,credit
+T074,2024-05-16,Suica Recharge,Transport,3000,debit
+T075,2024-05-18,Yoshinoya,Food & Dining,640,debit
+T076,2024-05-20,Spotify,Entertainment,980,debit
+T077,2024-05-22,Tokyo Gas,Utilities,3600,debit
+T078,2024-05-24,FamilyMart,Food & Dining,490,debit
+T079,2024-05-26,Don Quijote,Shopping,2700,debit
+T080,2024-05-28,Sukiya,Food & Dining,590,debit
+T081,2024-06-01,Seven Eleven,Food & Dining,810,debit
+T082,2024-06-03,Tokyo Metro,Transport,1200,debit
+T083,2024-06-05,Rakuten,Shopping,6400,debit
+T084,2024-06-07,Matsuya,Food & Dining,730,debit
+T085,2024-06-09,Netflix,Entertainment,1490,debit
+T086,2024-06-11,Lawson,Food & Dining,470,debit
+T087,2024-06-13,Uniqlo,Shopping,4200,debit
+T088,2024-06-15,Salary,Income,250000,credit
+T089,2024-06-17,Suica Recharge,Transport,5000,debit
+T090,2024-06-19,Yoshinoya,Food & Dining,670,debit
+T091,2024-06-21,Spotify,Entertainment,980,debit
+T092,2024-06-23,Amazon Japan,Shopping,3800,debit
+T093,2024-06-25,Tokyo Electric,Utilities,4100,debit
+T094,2024-06-27,FamilyMart,Food & Dining,420,debit
+T095,2024-06-29,Don Quijote,Shopping,2100,debit
+T096,2024-06-30,Tokyo Gas,Utilities,3400,debit
