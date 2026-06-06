@@ -39,6 +39,17 @@ bank-transaction-analyzer/
 ---
 
 ## 🔍 Key Findings
+![Analysis 1](analysis_1.JPG)
+![Analysis 2](analysis_2.JPG)
+![Analysis 3](analysis_3.JPG)
+![Analysis 4](analysis_4.JPG)
+![Analysis 5](analysis_5.JPG)
+![Analysis 6](analysis_6.JPG)
+![Analysis 7](analysis_7.JPG)
+![Analysis 8](analysis_8.JPG)
+
+
+
 
 > _(Fill these in after running your queries — 3 to 5 bullet points)_
 
